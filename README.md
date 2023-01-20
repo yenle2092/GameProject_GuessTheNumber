@@ -36,4 +36,4 @@ Three levels of difficulties are suggested in this game: easy, medium and hard.
 - Jupyter file with the code used to build the game
 - Powerpoint presentation of the project 
 
-# HAVE FUN WITH THE GAME
+# HAVE FUN WITH THE GAME :)
