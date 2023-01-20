@@ -21,7 +21,7 @@ Three levels of difficulties are suggested in this game: easy, medium and hard.
 
 - Add the tasks on Jira
 - Build a flowchart for the different steps of game building
-- Identified the different part of the script
+- Identify the different part of the script
 - Build the script for the game using python and Jupyter Notebook
 - Test the script by the different collaborators to see if it works
 - Prepare a powerpoint presentation
